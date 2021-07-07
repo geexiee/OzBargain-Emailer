@@ -1,0 +1,3 @@
+delete this paragraph and populate this file with a list of contacts that you want to send notification emails to.
+The structure in which you add contacts here is very important, it must follow the following structure: [Name (only one word)] [Email] [keyword1,keyword2,keyword3]
+e.g. John john@gmail.com apple,iphone,amazon

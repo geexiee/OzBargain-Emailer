@@ -1,0 +1,10 @@
+Howdy pardner, 
+
+Theres a fresh ozbargain deal post containing the keyword ${KEYWORD}. The title of the post you're looking for is: ${POST_TITLE}.
+
+Go check it out now at www.ozbargain.com.au/deals before its gone!
+Alternative direct deal link: ${DEAL_LINK}. 
+
+Keep in mind this deal/link may not always be there because deals often get posted and immediately taken down for checking. If this is the case for you, then just keep an eye out for it when it reappears (hopefully) soon!
+
+- Gordos DealBot :^)
